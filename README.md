@@ -77,7 +77,14 @@ python setup [develop/install]
 ``` 
 
 to get the executable in the system binary folder. Then it is easy 
-to run the executable from anywhere.
+to run the executable from anywhere. In this case the models can be 
+run with 
+
+```
+thindiskpy input.ini
+```
+
+from the folder where input.ini resides.
 
 
 ```

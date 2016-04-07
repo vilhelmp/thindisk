@@ -86,6 +86,9 @@ thindiskpy input.ini
 
 from the folder where input.ini resides.
 
+Alternatively, you can run the parameter input files without
+running the setup.py script, then from the same folder as the
+thindisk.py file like this
 
 ```
 % python thindisk.py input.ini`

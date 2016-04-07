@@ -67,8 +67,18 @@ Parameters
 - `vlsr`: source systemic velocity in the LSR, in km/s, Default: 0.
 - `name`: base name of the output FITS file, Default: output.fits.
 
-Usage
------
+Usage 
+----- 
+
+Can now be installed with 
+
+``` 
+python setup [develop/install]
+``` 
+
+to get the executable in the system binary folder. Then it is easy 
+to run the executable from anywhere.
+
 
 ```
 % python thindisk.py input.ini`
